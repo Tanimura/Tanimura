@@ -36,7 +36,7 @@ Imagens das linguagens e redes sociais
 
 ##
 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Tanimura/Tanimura/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
