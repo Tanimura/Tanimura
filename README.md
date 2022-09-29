@@ -2,10 +2,9 @@
 
 <div align="center">
   <a href="https://github.com/Tanimura">
- <img height="center" src="https://github-readme-stats.vercel.app/api?username=Tanimura&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-</div>
+ <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Tanimura&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 <div align="center">  
- <img height="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanimura&layout=compact&langs_count=7&theme=tokyonight"/>
+ <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanimura&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 <!-- https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_pt-BR.md  -->
