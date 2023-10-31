@@ -34,14 +34,14 @@ Imagens das linguagens e redes sociais
 
 <!-- https://dev.to/envoy_/150-badges-for-github-pnk --> 
 
-##
+<!--##
 
   ![Snake animation](https://github.com/Tanimura/Tanimura/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
 ##
-
+--> 
 <!--
 **Tanimura/Tanimura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
